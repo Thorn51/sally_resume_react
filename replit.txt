@@ -1,0 +1,52 @@
+<body>
+
+		<header>
+			<h1>Sally Student</h1>
+			<img src="art/sally_student_cropped_resized.jpg" alt="Sally Student Headshot">
+			<h2>Web Development Master</h2>
+		</header>
+
+		<main>
+
+			
+			<section>
+				<h3>Contact Information</h3>
+			<address>
+				<p>Phone - <a href="tel:15555551234">(555)555-1234</a></p>
+				<p>Email - <a href="mailto:sally.student@mockup.com">sally.student@mockup.com</a></p>
+			</address>
+			</section>
+
+			<section>
+				<h3>Objective</h3>
+				<p> Looking for the job of Entry Level Web Developer at Acme Companies to join the team in implementing user interaction following client-approved mock-ups, such as wireframes, visual design comprehensive layouts, and prototypes. Bringing a keen eye for details, strong ability to implement mock-ups, and understanding of great user experience design; three years experience in visual UI / front-end development work, JavaScript, CSS, and jQuery, XHTML 1.1, and Web Standard HTML5.</p>
+			</section>
+
+			<section>
+			<h3>Skills</h3>
+				<ul>
+					<li>HTML5</li>
+					<li>CSS3</li>
+					<li>JavaScript</li>
+					<li>jQuery</li>
+			</ul>
+			</section>
+
+			<section>
+				<h3>Education</h3>
+					<p>SOMETOWN UNIVERSITY • Bachelor of Applied Science in Internet and Web Development</p>
+			</section>
+
+			<section>
+				<h3>Work History</h3>
+					<p>Full Stack Developer - ABC AGENCY, INC. - Sometown, NY • Web Developer, 2013 to Present</p>
+
+					<p>Work collaboratively with clients and in-house agency teams to provide rapid, robust and client-acclaimed front- and back-end web development optimizing user experience, search engine ranking, sales, brand positioning and related metrics.</p>
+
+					<p>Web Designer - DEF AGENCY, INC. — Sometown, NY • WordPress Web Developer Intern, 2012 to 2013</p>
+
+					<p>Worked with award-winning developers to create and update WordPress sites. Optimized sites for usability, search engine optimization and accessibility. Partnered with marketing department to continually perfect client pitches. Offered job at conclusion of internship (declined to pursue web developer opportunity at ABC Agency).</p>
+			</section>
+			
+		</main>   
+  </body>
