@@ -1,0 +1,1 @@
+This project was completed as a student in the Thinkful Full Stack Flex program. This is the first assignment in the React module.  
