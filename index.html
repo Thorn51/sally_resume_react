@@ -18,13 +18,20 @@
 
       function App(props) {
         console.log(props);
-        return <main>{props.children}</main>;
+        return (
+          <main>
+            <header>
+              <h1 className="name">{props.name}</h1>
+              {props.children}
+            </header>
+            {props.children}
+          </main>
+        );
       }
 
       ReactDOM.render(
-        <App>
+        <App name="Sally Student">
           <header>
-            <h1 className="name">Sally Student</h1>
             <img
               className="headshot"
               src="art\sally_resume_headshot.jpg"
